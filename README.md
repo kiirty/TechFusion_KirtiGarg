@@ -1,4 +1,4 @@
-# TechFusion_KirtiGarg
+
 ### The Problem Statement Title: Create a AI-driven and IoT-based Smart farming for Optimal Yield & Crop Protection.
 ### OVERVIEW: 
 CropGuard is an advanced agricultural monitoring system that leverages various sensors to detect and analyze key environmental parameters such as humidity, pH, soil moisture, and water level. The collected data is transmitted to a cloud platform using LoRaWAN, a cost-effective and power-efficient wireless communication technology.
